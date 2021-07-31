@@ -14,3 +14,13 @@ Salient human detection (SHD) in dynamic 360° immersive videos is of great impo
 :running: :running: :running: ***KEEP UPDATING***.
 
 ------
+
+# Citation
+
+    @article{zhang2021shd360,
+      title={SHD360: A Benchmark Dataset for Salient Human Detection in 360° Videos},
+      author={Zhang, Yi and Zhang, Lu and Zhang, Jing and Wang, Kang and Hamidouche, Wassim and Deforges, Olivier},
+      journal={arXiv preprint arXiv:2105.11578},
+      year={2021}
+    }
+
