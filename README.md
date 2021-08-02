@@ -1,4 +1,4 @@
-# SHD360: A Benchmark Dataset for Salient Human Detection in 360° Videos
+# [SHD360: A Benchmark Dataset for Salient Human Detection in 360° Videos](https://arxiv.org/abs/2105.11578)
 
 Authors: [*Yi Zhang*](https://www.linkedin.com/in/bill-y-zhang/), [*Lu Zhang*](https://luzhang.perso.insa-rennes.fr/), [*Jing Zhang*](https://scholar.google.com/citations?user=Qa1DMv8AAAAJ&hl=en), [*Kang Wang*](), [*Wassim Hamidouche*](https://scholar.google.com/citations?user=ywBnUIAAAAAJ&hl=en), [*Olivier Deforges*](https://scholar.google.com/citations?user=c5DiiBUAAAAJ&hl=en)
 
@@ -105,7 +105,7 @@ All the quantitative results were computed based on one-key Python toolbox: http
 
 # Downloads
 
-The object-/instance-level ground truth (with default split) and edge maps can be downloaded from [Baidu] or [Google](https://drive.google.com/file/d/1TII7lQhVPf9tZIUve8FCWsfwFWVxv0N7/view?usp=sharing).
+The object-/instance-level ground truth (with default split) and edge maps can be downloaded from [OneDrive]() or [Google](https://drive.google.com/file/d/1TII7lQhVPf9tZIUve8FCWsfwFWVxv0N7/view?usp=sharing).
 
 ------
 
