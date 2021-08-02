@@ -70,7 +70,7 @@ Salient human detection (SHD) in dynamic 360° immersive videos is of great impo
 </p>
 
 
-## Atrributes-based Results
+## Attributes-based Results
 
 <p align="center">
     <img src="./figures/fig_qua_attr.jpg"/> <br />
