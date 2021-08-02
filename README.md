@@ -15,6 +15,82 @@ Salient human detection (SHD) in dynamic 360° immersive videos is of great impo
 
 ------
 
+# Related Works
+
+<p align="center">
+    <img src="./figures/fig_related.jpg"/> <br />
+    <em> 
+    Figure 2: Summary of widely used salient object detection (SOD) datasets and our SHD360. GT = ground truth. ER Image = equirectangular image. Attr. = attributes. obj. = object-level GT. ins. = instance-level GT. Please note that all the datasets listed above provide pixel-wise annotations.
+    </em>
+</p>
+
+
+------
+
+# DataSet: SHD360
+
+<p align="center">
+    <img src="./figures/fig_categories.jpg"/> <br />
+    <em> 
+    Figure 3: Statistics of the proposed SHD360. (a)/(b) The quantity of object-/instance-level per-pixel ground-truth masks of each of the scene categories. (c) Hierarchical labels including two super-classes (indoor/outdoor) and 41 scene categories. Attributes statistics including (d) and (e) which represent correlation and frequency of proposed attributes, respectively. (f) Descriptions of the six proposed attributes associated with each of the scene categories.
+    </em>
+</p>
+
+<p align="center">
+    <img src="./figures/fig_attributes.jpg"/> <br />
+    <em> 
+    Figure 4: Examples of instance-level pixel-wise labels and challenging attributes (please refer to Figure 3 (f) for details) of our SHD360. 
+    </em>
+</p>
+
+------
+
+# 360° Geometry-adapted S-measure
+
+<p align="center">
+    <img src="./figures/fig_metric.jpg"/> <br />
+    <em> 
+    Figure 5: A comparison between traditional S-measure and proposed 360° geometry-adapted S-measure. The former/latter compute region similarities based on ER blocks/cube maps, respectively. ’+X’,’-X’,’+Y’,’-Y’,’+Z’ and ’-Z’ denote cube maps covering a FoV of 90°×90°, observed from the right, left, up, down, front and back by a 360° camera.
+    </em>
+</p>
+
+------
+
+# Benchmark
+
+## Overall Results
+
+<p align="center">
+    <img src="./figures/fig_qua.jpg"/> <br />
+    <em> 
+    Figure 6: Performance comparison of 8/2 SOTA SOD/VSOD methods and one 360° SOD method over the three testing sets of our SHD360. S = S-measure (α=0.5), S360 = 360° geometry-adapted S-measure, Fβ = mean F-measure (β2=0.3), Eφ = mean E-measure, M = mean absolute error. ↑/↓ denotes a larger/smaller value is better. The three best results of each column are in red, blue and green, respectively.
+    </em>
+</p>
+
+
+## Atrributes-based Results
+
+<p align="center">
+    <img src="./figures/fig_qua_attr.jpg"/> <br />
+    <em> 
+    Figure 7: Attributes-based performance comparison of 11 baselines over our SHD360. ↑/↓ denotes a larger/smaller value is better. Three best results of each row are in red, blue and green, respectively.
+    </em>
+</p>
+
+------
+
+# Downloads
+
+The object-/instance-level ground truth (with default split) and edge maps can be downloaded from [Baidu] or [Google](https://drive.google.com/file/d/1TII7lQhVPf9tZIUve8FCWsfwFWVxv0N7/view?usp=sharing).
+
+------
+
+# Contact 
+
+Please feel free to drop an e-mail to yi.zhang1@insa-rennes.fr for questions or further discussion.
+
+------
+
 # Citation
 
     @article{zhang2021shd360,
