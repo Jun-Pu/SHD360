@@ -1,5 +1,7 @@
 # SHD360: A Benchmark Dataset for Salient Human Detection in 360° Videos
 
+Authors: [*Yi Zhang*](https://www.linkedin.com/in/bill-y-zhang/), [*Lu Zhang*](https://luzhang.perso.insa-rennes.fr/), [*Jing Zhang*](https://scholar.google.com/citations?user=Qa1DMv8AAAAJ&hl=en), [*Kang Wang*](), [*Wassim Hamidouche*](https://scholar.google.com/citations?user=ywBnUIAAAAAJ&hl=en), [*Olivier Deforges*](https://scholar.google.com/citations?user=c5DiiBUAAAAJ&hl=en)
+
 # Introduction
 
 <p align="center">
@@ -76,6 +78,12 @@ Salient human detection (SHD) in dynamic 360° immersive videos is of great impo
     Figure 7: Attributes-based performance comparison of 11 baselines over our SHD360. ↑/↓ denotes a larger/smaller value is better. Three best results of each row are in red, blue and green, respectively.
     </em>
 </p>
+
+------
+
+# Evaluation Toolbox
+
+All the quantitative results were computed based on one-key Python toolbox: https://github.com/zzhanghub/eval-co-sod .
 
 ------
 
