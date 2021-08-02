@@ -105,7 +105,7 @@ All the quantitative results were computed based on one-key Python toolbox: http
 
 # Downloads
 
-The object-/instance-level ground truth (with default split) and edge maps can be downloaded from [OneDrive]() or [Google](https://drive.google.com/file/d/1TII7lQhVPf9tZIUve8FCWsfwFWVxv0N7/view?usp=sharing).
+The object-/instance-level ground truth (with default split) and edge maps can be downloaded from [OneDrive](https://1drv.ms/u/s!Ais1kZo7RR7Lg1a4C285fyJ-eyO9?e=QzGQUg) or [Google](https://drive.google.com/file/d/1TII7lQhVPf9tZIUve8FCWsfwFWVxv0N7/view?usp=sharing).
 
 ------
 
