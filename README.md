@@ -5,7 +5,7 @@ Authors: [*Yi Zhang*](https://www.linkedin.com/in/bill-y-zhang/), [*Lu Zhang*](h
 # Introduction
 
 <p align="center">
-    <img src="./figures/fig_teaser.jpg" width="80%"/> <br />
+    <img src="./figures/fig_teaser.jpg" width="90%"/> <br />
     <em> 
     Figure 1: An illustration of 360° video salient human detection (VSHD). The first row, two random key frames of a 360° panoramic video from our SHD360. The shown 360° video frames are mapped to plane by conducting equirectangular (ER) projection. The middle row: a subject observes 360° content by moving his head to control the field-of-view (FoV) in a range of 360°×180°. The salient human instances with 360° attributes observed in spherical FoVs at specific rotation angles (e.g., θi, θj). The last row: corresponding annotations such as per-pixel instance-level ground truth (GT) and general attributes including MP-multiple persons, DV-distant view and MB-motion blur.
     </em>
@@ -20,7 +20,7 @@ Salient human detection (SHD) in dynamic 360° immersive videos is of great impo
 # Related Works
 
 <p align="center">
-    <img src="./figures/fig_related.jpg"/> <br />
+    <img src="./figures/fig_related.jpg" width="90%"/> <br />
     <em> 
     Figure 2: Summary of widely used salient object detection (SOD) datasets and our SHD360. GT = ground truth. ER Image = equirectangular image. Attr. = attributes. obj. = object-level GT. ins. = instance-level GT. Please note that all the datasets listed above provide pixel-wise annotations.
     </em>
@@ -32,14 +32,14 @@ Salient human detection (SHD) in dynamic 360° immersive videos is of great impo
 # DataSet: SHD360
 
 <p align="center">
-    <img src="./figures/fig_categories.jpg"/> <br />
+    <img src="./figures/fig_categories.jpg" width="90%"/> <br />
     <em> 
     Figure 3: Statistics of the proposed SHD360. (a)/(b) The quantity of object-/instance-level per-pixel ground-truth masks of each of the scene categories. (c) Hierarchical labels including two super-classes (indoor/outdoor) and 41 scene categories. Attributes statistics including (d) and (e) which represent correlation and frequency of proposed attributes, respectively. (f) Descriptions of the six proposed attributes associated with each of the scene categories.
     </em>
 </p>
 
 <p align="center">
-    <img src="./figures/fig_attributes.jpg"/> <br />
+    <img src="./figures/fig_attributes.jpg" width="90%"/> <br />
     <em> 
     Figure 4: Examples of instance-level pixel-wise labels and challenging attributes (please refer to Figure 3 (f) for details) of our SHD360. 
     </em>
@@ -50,7 +50,7 @@ Salient human detection (SHD) in dynamic 360° immersive videos is of great impo
 # 360° Geometry-adapted S-measure
 
 <p align="center">
-    <img src="./figures/fig_metric.jpg"/> <br />
+    <img src="./figures/fig_metric.jpg" width="90%"/> <br />
     <em> 
     Figure 5: A comparison between traditional S-measure and proposed 360° geometry-adapted S-measure. The former/latter compute region similarities based on ER blocks/cube maps, respectively. ’+X’,’-X’,’+Y’,’-Y’,’+Z’ and ’-Z’ denote cube maps covering a FoV of 90°×90°, observed from the right, left, up, down, front and back by a 360° camera.
     </em>
@@ -63,7 +63,7 @@ Salient human detection (SHD) in dynamic 360° immersive videos is of great impo
 ## Overall Results
 
 <p align="center">
-    <img src="./figures/fig_qua.jpg"/> <br />
+    <img src="./figures/fig_qua.jpg" width="90%"/> <br />
     <em> 
     Figure 6: Performance comparison of 8/2 SOTA SOD/VSOD methods and one 360° SOD method over the three testing sets of our SHD360. S = S-measure (α=0.5), S360 = 360° geometry-adapted S-measure, Fβ = mean F-measure (β2=0.3), Eφ = mean E-measure, M = mean absolute error. ↑/↓ denotes a larger/smaller value is better. The three best results of each column are in red, blue and green, respectively.
     </em>
@@ -73,7 +73,7 @@ Salient human detection (SHD) in dynamic 360° immersive videos is of great impo
 ## Attributes-based Results
 
 <p align="center">
-    <img src="./figures/fig_qua_attr.jpg"/> <br />
+    <img src="./figures/fig_qua_attr.jpg" width="90%"/> <br />
     <em> 
     Figure 7: Attributes-based performance comparison of 11 baselines over our SHD360. ↑/↓ denotes a larger/smaller value is better. Three best results of each row are in red, blue and green, respectively.
     </em>
