@@ -63,7 +63,7 @@ Salient human detection (SHD) in dynamic 360° immersive videos is of great impo
 ## Overall Results
 
 <p align="center">
-    <img src="./figures/fig_qua.jpg" width="90%"/> <br />
+    <img src="./figures/fig_qua.jpg" width="80%"/> <br />
     <em> 
     Figure 6: Performance comparison of 8/2 SOTA SOD/VSOD methods and one 360° SOD method over the three testing sets of our SHD360. S = S-measure (α=0.5), S360 = 360° geometry-adapted S-measure, Fβ = mean F-measure (β2=0.3), Eφ = mean E-measure, M = mean absolute error. ↑/↓ denotes a larger/smaller value is better. The three best results of each column are in red, blue and green, respectively.
     </em>
@@ -73,7 +73,7 @@ Salient human detection (SHD) in dynamic 360° immersive videos is of great impo
 ## Attributes-based Results
 
 <p align="center">
-    <img src="./figures/fig_qua_attr.jpg" width="90%"/> <br />
+    <img src="./figures/fig_qua_attr.jpg" width="80%"/> <br />
     <em> 
     Figure 7: Attributes-based performance comparison of 11 baselines over our SHD360. ↑/↓ denotes a larger/smaller value is better. Three best results of each row are in red, blue and green, respectively.
     </em>
