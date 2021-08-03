@@ -20,7 +20,7 @@ Salient human detection (SHD) in dynamic 360° immersive videos is of great impo
 # Related Works
 
 <p align="center">
-    <img src="./figures/fig_related.jpg" width="80%"/> <br />
+    <img src="./figures/fig_related.jpg" width="90%"/> <br />
     <em> 
     Figure 2: Summary of widely used salient object detection (SOD) datasets and our SHD360. GT = ground truth. ER Image = equirectangular image. Attr. = attributes. obj. = object-level GT. ins. = instance-level GT. Please note that all the datasets listed above provide pixel-wise annotations.
     </em>
