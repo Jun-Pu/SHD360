@@ -107,7 +107,7 @@ All the quantitative results were computed based on one-key Python toolbox: http
 
 The object-/instance-level ground truth (with default split) and edge maps can be downloaded from [OneDrive](https://1drv.ms/u/s!Ais1kZo7RR7Lg1a4C285fyJ-eyO9?e=QzGQUg) or [Google](https://drive.google.com/file/d/1TII7lQhVPf9tZIUve8FCWsfwFWVxv0N7/view?usp=sharing).
 
-The videos can be downloaded from [Google]() or [OneDrive]()
+The videos can be downloaded from [Google](https://drive.google.com/file/d/1wAaufahShjgur_-V5HLPmtmoUc-ORX5G/view?usp=sharing) or [OneDrive]()
 
 To generate video frames, please refer to 'video_to_frames.py'.
 
