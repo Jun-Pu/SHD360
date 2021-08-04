@@ -103,6 +103,11 @@ All the quantitative results were computed based on one-key Python toolbox: http
 
 ------
 
+# Copyright
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+
+------
+
 # Downloads
 
 The object-/instance-level ground truth (with default split) and edge maps can be downloaded from [OneDrive](https://1drv.ms/u/s!Ais1kZo7RR7Lg1a4C285fyJ-eyO9?e=QzGQUg) or [Google](https://drive.google.com/file/d/1TII7lQhVPf9tZIUve8FCWsfwFWVxv0N7/view?usp=sharing).
