@@ -111,6 +111,8 @@ The videos can be downloaded from [Google](https://drive.google.com/file/d/1wAau
 
 To generate video frames, please refer to 'video_to_frames.py'.
 
+To get access to raw videos on Youtube, please refer to 'sequence_links.txt'.
+
 ------
 
 # Contact 
