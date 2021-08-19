@@ -109,9 +109,9 @@ The object-/instance-level ground truth (with default split) and edge maps can b
 
 The videos can be downloaded from [Google](https://drive.google.com/file/d/1wAaufahShjgur_-V5HLPmtmoUc-ORX5G/view?usp=sharing) or [OneDrive](https://1drv.ms/u/s!Ais1kZo7RR7Lg1fo0ezJUl9aBDtv?e=70ZCzq).
 
-To generate video frames, please refer to 'video_to_frames.py'.
+To generate video frames, please refer to [video_to_frames.py](https://github.com/PanoAsh/SHD360/blob/main/video_to_frames.py).
 
-To get access to raw videos on Youtube, please refer to 'sequence_links.txt'.
+To get access to raw videos on Youtube, please refer to [sequence_links.txt](https://github.com/PanoAsh/SHD360/blob/main/sequence_links.txt).
 
 ------
 
