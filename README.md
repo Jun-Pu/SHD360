@@ -1,4 +1,4 @@
-# [SHD360: A Benchmark Dataset for Salient Human Detection in 360° Videos](https://arxiv.org/abs/2105.11578)
+# [SHD360: A Benchmark Dataset for Salient (Foreground) Human Detection in 360° Videos](https://arxiv.org/abs/2105.11578)
 
 Authors: [*Yi Zhang*](https://scholar.google.com/citations?user=NeHBHVUAAAAJ&hl=en), [*Lu Zhang*](https://luzhang.perso.insa-rennes.fr/), [*Kang Wang*](https://github.com/MS-KangWang), [*Wassim Hamidouche*](https://scholar.google.com/citations?user=ywBnUIAAAAAJ&hl=en), [*Olivier Deforges*](https://scholar.google.com/citations?user=c5DiiBUAAAAJ&hl=en)
 
