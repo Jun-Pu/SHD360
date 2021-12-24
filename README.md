@@ -1,4 +1,4 @@
-# [SHD360: A Benchmark Dataset for Salient Human Detection in 360° Videos](https://arxiv.org/abs/2105.11578)
+# [SHD360: A Benchmark Dataset for Salient Human Detection in 360° Videos (Technical Report)](https://arxiv.org/abs/2105.11578)
 
 # Introduction
 
