@@ -115,7 +115,7 @@ To get access to raw videos on Youtube, please refer to [sequence_links.txt](htt
 
 # Privacy
 
-This dataset is made available for academic use only. If you find yourself or personal belongings in this dataset and feel unwell about it, please contact us immediately.
+Please note that SHD360 dataset does not own the copyright of images. Only researchers and educators who wish to use the images for non-commercial researches and/or educational purposes, have access to SHD360.
 
 ------
 
