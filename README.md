@@ -119,7 +119,7 @@ Please note that SHD360 dataset does not own the copyright of images. Only resea
 
 # Contact 
 
-Please feel free to drop an e-mail to yi.zhang1@insa-rennes.fr for questions or further discussion.
+Please feel free to drop an e-mail to yi23zhang.2022@gmail.com for questions or further discussion.
 
 ------
 
